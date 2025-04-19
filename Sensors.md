@@ -1,7 +1,4 @@
 # List of sensors available for evaluation
-The research tool I was using is currently unavailable, but I can still manually generate a curated list based on up-to-date knowledge and reliable sources. Here's a Markdown table with smart agriculture IoT devices and renewable energy tools, including rough price estimates and example sourcing URLs:
-
----
 
 ### 📡 Smart Agriculture IoT Devices & Renewable Energy Tools
 
