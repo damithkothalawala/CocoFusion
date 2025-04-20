@@ -2,6 +2,56 @@
 
 *Combining AI and IoT to Revolutionize Coconut Farming in Sri Lanka*
 
+## Current Project Team as of 20th April 2025
+
+  - Research Team
+    - @damithkothalawala - Cloud / IoT
+  - Repo Management Team
+    - @madurapa
+  - PM Team
+    - @tigeroster
+
+## We Are Looking For
+
+- AgriTech Doctors/Professor(s) – Research  
+- IT Doctors/Professor(s) – Research  
+- Volunteer Project Managers with GitHub Projects Experience  
+- DPI/DPG Advisor to validate and set guidelines to align with Sri Lanka Standards  
+- Agriculture Extension Officers with Coconut Field Experience  
+- Soil Scientists specialised in tropical/humid climate conditions  
+- IoT / Embedded Systems Engineers familiar with precision agriculture  
+- Cloud Engineers / DevOps Experts for backend infrastructure  
+- Data Scientists or Analysts with interest in agri-yield optimisation  
+- Technical Writers to support multi-language documentation (Sinhala, Tamil, English)  
+- Translators / Language Volunteers for accurate localisation  
+- Agribusiness Consultants with knowledge of market linkages  
+- University Students (Agriculture / IT) willing to contribute towards research and field validation  
+- Open Source Contributors familiar with GitHub collaboration practices  
+- Community Moderators to manage issue threads and discussions  
+- Legal Advisors familiar with data licensing, open-source policies, and Sri Lankan research ethics  
+
+
+## 🧑‍🌾 CocoFusion Project – Participant Directory (will be moved to a different location as a file later)
+
+This section contains contributors who expressed interest in the CocoFusion initiative, their affiliations, and key expertise areas.
+
+| GitHub Username     | Affiliation                               | Area of Interest                          |
+|:--------------------|:------------------------------------------|:------------------------------------------|
+| @isum03              | University of Westminster                 | Not specified                             |
+| @roshanRishantha2004 | University of Sri Jayewardenepura / Esoft | Not specified                             |
+| @sozibalmamun        | THT Space Electrical Company Ltd.         | IoT & Embedded Systems                    |
+| @HirushaNaveen       | University of Kelaniya                    | Embedded Systems, PCB Design, 3D Modeling |
+| @DamithraFdo         | Rajarata University of Sri Lanka          | Software Engineering, IoT                 |
+| @AnsarMahir          | University of Moratuwa                    | Not specified                             |
+| @ahmedstki           | Rajarata University / SLINTEC             | Agri Research, Python, AI                 |
+| @Rathnamalala        | KDU                                       | Software Development, Machine Learning    |
+| @pradeeep1999        | Not specified                             | AI + IoT (nRF52840, sensors, Bluetooth)   |
+| @ilsam99             | SLIIT                                     | Smart Farming (IoT + ML), AWS SageMaker   |
+| @Sumindu             | Esoft Metro Campus (London Met)           | ML, AI, MERN, PHP, Agri Insights          |
+| @thilinapremachandra | Rajarata University                       | AI/ML, Python, React, Android             |
+| @JithmiKumarasingha  | University of Moratuwa                    | Embedded Systems, C, Java, Python         |
+| @kailash3590         | Agripreneur                               | Agro Techniques, Irrigation Systems       |
+
 ## Overview
 
 CocoFusion is a **platform-agnostic, open-source research and development project** that combines **Artificial Intelligence (AI)** and the **Internet of Things (IoT)** to improve coconut farming practices in Sri Lanka. The goal is to fuse cutting-edge technology with traditional agriculture to help coconut farmers increase yields, use resources more efficiently, and make data-driven decisions in the field. By deploying smart sensors and AI models on coconut plantations, CocoFusion aims to provide farmers with real-time insights – from optimal irrigation scheduling to early pest detection – in a user-friendly way. Ultimately, the project seeks to boost sustainable coconut production in Sri Lanka while **bridging the gap between IT and agriculture** through collaborative innovation.
