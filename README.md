@@ -2,6 +2,10 @@
 
 *Combining AI and IoT to Revolutionize Coconut Farming in Sri Lanka*
 
+## Overview
+
+CocoFusion is a **platform-agnostic, open-source research and development project** that combines **Artificial Intelligence (AI)** and the **Internet of Things (IoT)** to improve coconut farming practices in Sri Lanka. The goal is to fuse cutting-edge technology with traditional agriculture to help coconut farmers increase yields, use resources more efficiently, and make data-driven decisions in the field. By deploying smart sensors and AI models on coconut plantations, CocoFusion aims to provide farmers with real-time insights – from optimal irrigation scheduling to early pest detection – in a user-friendly way. Ultimately, the project seeks to boost sustainable coconut production in Sri Lanka while **bridging the gap between IT and agriculture** through collaborative innovation.
+
 ## Current Project Team as of 20th April 2025
 
   - Research Team
@@ -52,9 +56,20 @@ This section contains contributors who expressed interest in the CocoFusion init
 | @JithmiKumarasingha  | University of Moratuwa                    | Embedded Systems, C, Java, Python         |
 | @kailash3590         | Agripreneur                               | Agro Techniques, Irrigation Systems       |
 
-## Overview
+## Aligning with Sri Lanka's National DPI/DPG Standards
+Sources Credits Goes to: @dasunhegoda 
 
-CocoFusion is a **platform-agnostic, open-source research and development project** that combines **Artificial Intelligence (AI)** and the **Internet of Things (IoT)** to improve coconut farming practices in Sri Lanka. The goal is to fuse cutting-edge technology with traditional agriculture to help coconut farmers increase yields, use resources more efficiently, and make data-driven decisions in the field. By deploying smart sensors and AI models on coconut plantations, CocoFusion aims to provide farmers with real-time insights – from optimal irrigation scheduling to early pest detection – in a user-friendly way. Ultimately, the project seeks to boost sustainable coconut production in Sri Lanka while **bridging the gap between IT and agriculture** through collaborative innovation.
+Our goal is to align and support national DPI/DPG Initiative while not doing another duplicate research.
+
+<img width="538" alt="Future State of Sri Lanka DPI/DPG" src="https://github.com/user-attachments/assets/cc09983b-46f7-44af-aaa3-8a737b59fedb" />
+
+So the contributors should carefully refer following documents hosted at Ministry of Agriculture in Sri Lanka
+
+| Document Name     | Link                               | 
+|:--------------------|:------------------------------------------|
+|Inclusive Digital Agriculture Transformation (IDAT) in Sri Lanka | <a href='https://agrimin.gov.lk/web/images/05.12.2023-1/Final_IDAT%20Strategy_Abridged%20version%20-%20English.pdf' target="_blank" >Download</a>|
+|AGRICULTURE ENTERPRISE ARCHITECTURE | <a href='https://www.agrimin.gov.lk/web/images/22.07.2024-1/SL-GAEA_V1.2.pdf' target="_blank" >Download</a>|
+|AGRICULTURE INTEROPERABILITY FRAMEWORK FOR AGRICULTURE | <a href='https://www.agrimin.gov.lk/web/images/22.07.2024-1/Agri_IF_V1.2.pdf' target="_blank">Download</a>| 
 
 ## Background: Why Coconut Farming in Sri Lanka? 
 
