@@ -25,7 +25,7 @@ If you have found a potential vulnerability, please do not create a public issue
 
 Instead, report it privately via email:
 
-**📧 Email:** `security@7cs.lk`  
+**📧 Email:** `damith@drklk.org`  
 **🔒 Subject Line:** *Security Report – Coconut AgriTech Project*
 
 Please include:
