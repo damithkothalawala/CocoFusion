@@ -13,7 +13,7 @@ CocoFusion is a **platform-agnostic, open-source research and development projec
   - Repo Management Team
     - @madurapa
   - PM Team
-    - @tigeroster
+    - @lochana-d
 
 ## We Are Looking For
 
