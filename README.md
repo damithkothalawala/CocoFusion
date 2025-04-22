@@ -39,20 +39,20 @@ CocoFusion is a **platform-agnostic, open-source research and development projec
 
 This section contains contributors who expressed interest in the CocoFusion initiative, their affiliations, and key expertise areas.
 
-| GitHub Username     | Affiliation                               | Area of Interest                          |
-|:--------------------|:------------------------------------------|:------------------------------------------|
-| @isum03              | University of Westminster                 | Not specified                             |
-| @roshanRishantha2004 | University of Sri Jayewardenepura / Esoft | Not specified                             |
-| @sozibalmamun        | THT Space Electrical Company Ltd.         | IoT & Embedded Systems                    |
-| @HirushaNaveen       | University of Kelaniya                    | Embedded Systems, PCB Design, 3D Modeling |
-| @DamithraFdo         | Rajarata University of Sri Lanka          | Software Engineering, IoT                 |
-| @AnsarMahir          | University of Moratuwa                    | Not specified                             |
-| @ahmedstki           | Rajarata University / SLINTEC             | Agri Research, Python, AI                 |
-| @Rathnamalala        | KDU                                       | Software Development, Machine Learning    |
-| @pradeeep1999        | Not specified                             | AI + IoT (nRF52840, sensors, Bluetooth)   |
-| @ilsam99             | SLIIT                                     | Smart Farming (IoT + ML), AWS SageMaker   |
-| @Sumindu             | Esoft Metro Campus (London Met)           | ML, AI, MERN, PHP, Agri Insights          |
-| @thilinapremachandra | Rajarata University                       | AI/ML, Python, React, Android             |
+| GitHub Username | Affiliation | Area of Interest |
+|-----------------|-------------|------------------|
+| @isum03 | University of Westminster |  |
+| @roshanRishantha2004 | Esoft Collage of Engineering| and Technology (Pearson) |
+| @sozibalmamun | THT Space Electrical Company Ltd. | IoT and embedded Systems |
+| @HirushaNaveen | University of Kelaniya | IoT and embedded Systems |
+| @DamithraFdo | Rajarata University of Sri Lanka |  |
+| @AnsarMahir | UoM - IT fac |  |
+| @ahmedstki | Rajarata University / BCS | AgriTech |
+| @Rathnamalala |  General sir john kotelawala defence university - KDU. | AI/ML SE |
+| @pradeeep1999 |  | IoT and embedded Systems |
+| @ilsam99 | SLIIT | IoT and embedded Systems / Cloud |
+| @Sumindu | Esoft Metro Campus | AI/ML SE |
+| @thilinapremachandra | Rajarata University | AI/ML SE / IoT |
 | @JithmiKumarasingha  | University of Moratuwa                    | Embedded Systems, C, Java, Python         |
 | @kailash3590         | Agripreneur                               | Agro Techniques, Irrigation Systems       |
 
