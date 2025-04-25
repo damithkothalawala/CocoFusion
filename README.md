@@ -34,6 +34,7 @@ CocoFusion is a **platform-agnostic, open-source research and development projec
 - Community Moderators to manage issue threads and discussions  
 - Legal Advisors familiar with data licensing, open-source policies, and Sri Lankan research ethics  
 
+Please join the [introduction thread](https://github.com/damithkothalawala/CocoFusion/discussions/28) to introduce yourself and share your work or interests.
 
 ## 🧑‍🌾 CocoFusion Project – Participant Directory (will be moved to a different location as a file later)
 
